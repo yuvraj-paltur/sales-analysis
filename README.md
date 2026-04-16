@@ -11,10 +11,7 @@ Includes charts for:
 - ## Visualizations
 
 ### Sales Trend
-![Sales Trend](images/sales_trend.png)
+![Sales Trend](images/monthly_sales_trend.png)
 
-### Top Products
-![Top Products](images/top_products.png)
-
-### Regional Sales
-![Regional Sales](images/region_sales.png)
+### Sales by category
+![Regional Sales](images/sales_by_category.png)
