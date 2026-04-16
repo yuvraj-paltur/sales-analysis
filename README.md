@@ -7,11 +7,4 @@
 Includes charts for:
 - Sales trends
 - Product performance
-- Revenue distribution
-- ## Visualizations
 
-### Sales Trend
-![Sales Trend](images/monthly sales trend.png)
-
-### Sales by category
-![Regional Sales](images/sales by category.png)
