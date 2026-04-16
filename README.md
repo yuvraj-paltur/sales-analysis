@@ -1,2 +1,10 @@
-# sales-analysis
-End-to-end sales analysis project including data cleaning, exploration, and visualization using Python (Pandas, Matplotlib) in Google Colab.
+## Key Insights
+- Identified top-performing products
+- Observed sales trends over time
+- Analyzed regional performance
+
+## Visualizations
+Includes charts for:
+- Sales trends
+- Product performance
+- Revenue distribution
